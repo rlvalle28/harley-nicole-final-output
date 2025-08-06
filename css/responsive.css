@@ -20,10 +20,6 @@
         width: 200px;
         height: 200px;
     }
-
-    #content-area {
-        margin-top: 100px;
-    }
 }
 
 @media (max-width: 425px) {
