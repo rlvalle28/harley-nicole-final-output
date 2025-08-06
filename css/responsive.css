@@ -1,0 +1,40 @@
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h2, h3 {
+        font-size: 18px;
+    }
+
+    .logo a h2 {
+        font-size: 18px;
+    }
+
+    #content-area {
+        padding: 50px 20px;
+    }
+
+    #home img {
+        width: 200px;
+        height: 200px;
+    }
+
+    #content-area {
+        margin-top: 100px;
+    }
+}
+
+@media (max-width: 425px) {
+    .ul-list ul {
+        gap: 15px;
+    }
+}
+
+
+@media (max-width: 350px) {
+    .logo a h3 {
+        font-size: 16px;
+    }
+}
